@@ -6,12 +6,12 @@
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://awesome-movie-recommender.herokuapp.com/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)--->
 
-### Website Preview
+<!--### Website Preview
 #### Home Page
 <img src="website_images/HomePage.png" width="900">
 
 #### Detail Page
-<img src="website_images/DetailPage.png" width="900">
+<img src="website_images/DetailPage.png" width="900">-->
 
 ----
 
