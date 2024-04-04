@@ -74,10 +74,9 @@ $ python manage.py runserver
 
 ## Team ✨
 
-| <a href="https://rajaprerak.github.io" target="_blank">**Prerak Raja**</a>
+| <a href="https://pradeepvarmau.github.io" target="_blank">**Pradeep varma**</a>
 | :---: |
-| [![Prerak Raja](https://github.com/rajaprerak.png?size=100)](https://rajaprerak.github.io)    
-| <a href="https://github.com/rajaprerak" target="_blank">`github.com/rajaprerak`</a>
+
 
 
 ## License
